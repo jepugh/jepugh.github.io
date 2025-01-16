@@ -22,9 +22,9 @@ repository               : "jepugh/jepugh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ph.D. Candidate"
+  name             : "Joe Pugh"
   pronouns         : # example: "she/her"  
-  bio              : "Engineer, Hydraulician, Lecturer"
+  bio              : "Ph.D. Candidate, Engineer, Hydraulician, Lecturer"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
   uri              : # URL
